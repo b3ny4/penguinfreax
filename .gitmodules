@@ -1,0 +1,15 @@
+[submodule "aws_autobootstrap"]
+	path = aws_autobootstrap
+	url = https://github.com/b3ny4/aws_autobootstrap
+[submodule "aws_networking"]
+	path = aws_networking
+	url = https://github.com/b3ny4/aws_networking
+[submodule "aws_server"]
+	path = aws_server
+	url = https://github.com/b3ny4/aws_server
+[submodule "aws_dns"]
+	path = aws_dns
+	url = https://github.com/b3ny4/aws_dns
+[submodule "ansible_wordpress"]
+	path = ansible_wordpress
+	url = https://github.com/b3ny4/ansible_wordpress
